@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+	<sim>
+		<model>
+			<livery>
+				<name>Norra</name>
+				<texture>Liveries/ATR72-500/Norra.png</texture>
+				<texture-wings>Liveries/ATR72-500/ATR-wings.png</texture-wings>
+			</livery>
+		</model>
+	</sim>
+</PropertyList>
